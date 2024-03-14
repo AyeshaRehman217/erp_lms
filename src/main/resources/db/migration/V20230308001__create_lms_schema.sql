@@ -1,0 +1,2 @@
+CREATE SCHEMA IF NOT EXISTS lms
+    AUTHORIZATION erp_academic_module;
